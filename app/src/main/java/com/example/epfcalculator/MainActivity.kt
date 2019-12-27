@@ -7,7 +7,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.annotation.RequiresApi
 import kotlinx.android.synthetic.main.activity_main.*
-
+//
 class MainActivity : AppCompatActivity() {
 
     @RequiresApi(Build.VERSION_CODES.N)
